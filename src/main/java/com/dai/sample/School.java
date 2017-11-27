@@ -1,6 +1,6 @@
 package com.dai.sample;
 
-public class School {123
+public class School {
 
 	public String name;
 	
