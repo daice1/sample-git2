@@ -12,6 +12,7 @@ public class School {
 
 	public void setName(String name) {
 		System.out.println("123eeee");
+		System.out.println("5555");
 		this.name = name;
 	}
 	
