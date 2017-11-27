@@ -11,7 +11,7 @@ public class School {
 	}
 
 	public void setName(String name) {
-		System.out.println("123");
+		System.out.println("123qqq");
 		this.name = name;
 	}
 	
