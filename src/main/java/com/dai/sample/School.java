@@ -3,6 +3,8 @@ package com.dai.sample;
 public class School {
 
 	public String name;
+	
+	public String id;
 
 	public String getName() {
 		return name;
